@@ -31,10 +31,8 @@ Action-Detection-Model/
 ├── utils.py # Utility functions (if any)
 ├── README.md # You're here!
 
-yaml
-Copy
-Edit
-🧠 Model Training
+
+## 🧠 Model Training
 Pose landmarks are extracted using MediaPipe
 
 Sequences of frames are converted to NumPy arrays
